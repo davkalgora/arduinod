@@ -1,0 +1,10 @@
+#github et repertoire local déjà existant
+#créer un repository sur github (serveur)
+#créer un fichier README.md dans le repertoire local
+#faire git init pour indexer le repertoire local dans la base de git
+#faire un git add *
+#faire un git commit -m 'le messade de commite'
+#ajouter le remote (serveur git)
+#git remote add origin https://github.com/davkalgora/arduinod.git
+#envoyer les modification sur le serveur
+#git push origin master 
