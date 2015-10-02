@@ -1,5 +1,1 @@
-dans cette partie je vais resumé les logiciels que j'utilise le plus souvant:
-# git et github pour versionner mon code (le code que je parge avec les internautes du monde entier
-# git et gitlab pour versionner mon code en local et aussi un travail colaboratif dans l'intranet
-# https://feedly.com/ (freedly) pour géré mon flux rss
-# sublime text + arduino + git + github comme éditeur de texte préféré
+dans cette partie de mon git je vais vous lister les outil que j'utilise plus pour mes activités personnel
